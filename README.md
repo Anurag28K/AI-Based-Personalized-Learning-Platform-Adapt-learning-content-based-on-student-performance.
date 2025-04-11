@@ -1,4 +1,4 @@
-#<🎓 **AI-Based Personalized Learning Platform**>
+🎓 **#AI-Based Personalized Learning Platform**
 
 ##**Introduction**
 
