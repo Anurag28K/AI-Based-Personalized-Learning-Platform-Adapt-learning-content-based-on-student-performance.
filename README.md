@@ -1,4 +1,4 @@
-###🎓 **AI-Based Personalized Learning Platform**
+#🎓 **AI-Based Personalized Learning Platform**
 
 Introduction
 Welcome to the AI-Based Personalized Learning Platform! This project focuses on classifying educational YouTube videos (specifically from Khan Academy) into different difficulty levels using a deep learning model. The goal is to recommend the most suitable learning content to users based on their input topic.
